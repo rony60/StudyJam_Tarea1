@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="contraseña">contraseña</string>
+    <string name="correo">Ingrese Usuario</string>
+    <string name="terminos">Terminos y condiciones</string>
+    <string name="mensaje1">¿Ha olvidado sus datos de acceso?</string>
+    <string name="mensaje2">obtener ayuda para iniciar sesión.</string>
+    <string name="mensaje3">¿no tiene una cuenta? Regístrate..</string>
+</resources>
